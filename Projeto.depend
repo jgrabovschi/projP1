@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1673452127 source:c:\users\admin\desktop\projeto\funcoesleitura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constantes.h"
+	"funcoesLeitura.h"
+
+1673450906 c:\users\admin\desktop\projeto\funcoesleitura.h
+	"constantes.h"
+
+1673450881 c:\users\admin\desktop\projeto\constantes.h
+
+1673455038 source:c:\users\admin\desktop\projeto\funcoesportatil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesPortatil.h"
+
+1673455038 c:\users\admin\desktop\projeto\funcoesportatil.h
+	"constantes.h"
+	"funcoesLeitura.h"
+	"funcoesRequisicao.h"
+
+1673452138 source:c:\users\admin\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesLeitura.h"
+	"funcoesPortatil.h"
+	"constantes.h"
+	"funcoesRequisicao.h"
+	"funcoesAvaria.h"
+
+1673455013 source:c:\users\admin\desktop\projeto\funcoesrequisicao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesRequisicao.h"
+
+1673455013 c:\users\admin\desktop\projeto\funcoesrequisicao.h
+	"constantes.h"
+	"funcoesLeitura.h"
+	"funcoesPortatil.h"
+	"funcoesAvaria.h"
+
+1673472140 source:c:\users\admin\desktop\projeto\funcoesavaria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesAvaria.h"
+
+1673452663 c:\users\admin\desktop\projeto\funcoesavaria.h
+	"funcoesLeitura.h"
+	"funcoesPortatil.h"
+	"funcoesRequisicao.h"
+

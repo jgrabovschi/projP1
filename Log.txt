@@ -1,0 +1,196 @@
+
+REQUISICAO CODIGO r:
+	Numero do portatil: 123
+	Designacao: hp
+	Processador: i7
+	RAM: 16 GB
+	Nome do utente: j
+	Tipo de utente: Tecnico administrativo
+	Data da requisicao: 3 - 12 - 2020
+	Prazo da requisicao: 3 dias
+	Data de devolucao: 6 - 12 - 2020
+	Duracao: 3 dias
+	Multa: 0 euros
+	Local da devolucao: Campus 2
+
+REQUISICAO CODIGO r1:
+	Numero do portatil: 1
+	Designacao: hp
+	Processador: i7
+	RAM: 16 GB
+	Nome do utente: j
+	Tipo de utente: Estudante
+	Data da requisicao: 3 - 12 - 2019
+	Prazo da requisicao: 4 dias
+	Data de devolucao: 6 - 12 - 2019
+	Duracao: 3 dias
+	Multa: 0 euros
+	Local da devolucao: Campus 2
+
+REQUISICAO CODIGO r:
+	Numero do portatil: 123
+	Designacao: jp
+	Processador: i7
+	RAM: 1 GB
+	Nome do utente: j
+	Tipo de utente: Estudante
+	Data da requisicao: 2 - 12 - 2020
+	Prazo da requisicao: 3 dias
+	Data de devolucao: 5 - 12 - 2020
+	Duracao: 3 dias
+	Multa: 0 euros
+	Local da devolucao: Campus 2
+
+REQUISICAO CODIGO r1:
+	Numero do portatil: 123
+	Designacao: jp
+	Processador: i7
+	RAM: 1 GB
+	Nome do utente: j
+	Tipo de utente: Estudante
+	Data da requisicao: 2 - 12 - 2018
+	Prazo da requisicao: 3 dias
+	Data de devolucao: 2 - 1 - 2019
+	Duracao: 31 dias
+	Multa: 280 euros
+	Local da devolucao: Campus 5
+
+REQUISICAO CODIGO r2:
+	Numero do portatil: 123
+	Designacao: jp
+	Processador: i7
+	RAM: 1 GB
+	Nome do utente: j
+	Tipo de utente: Estudante
+	Data da requisicao: 30 - 11 - 2020
+	Prazo da requisicao: 30 dias
+	Data de devolucao: 5 - 12 - 2020
+	Duracao: 5 dias
+	Multa: 0 euros
+	Local da devolucao: Residencias
+
+REQUISICAO CODIGO r3:
+	Numero do portatil: 123
+	Designacao: jp
+	Processador: i7
+	RAM: 1 GB
+	Nome do utente: j
+	Tipo de utente: Tecnico administrativo
+	Data da requisicao: 2 - 12 - 2021
+	Prazo da requisicao: 3 dias
+	Data de devolucao: 8 - 12 - 2021
+	Duracao: 6 dias
+	Multa: 30 euros
+	Local da devolucao: Campus 2
+
+REQUISICAO CODIGO r1:
+	Numero do portatil: 123
+	Designacao: hp
+	Processador: i7
+	RAM: 16 GB
+	Nome do utente: joao
+	Tipo de utente: Estudante
+	Data da requisicao: 3 - 12 - 2020
+	Prazo da requisicao: 3 dias
+	Data de devolucao: 7 - 12 - 2020
+	Duracao: 4 dias
+	Multa: 10 euros
+	Local da devolucao: Residencias
+
+REQUISICAO CODIGO r:
+	Numero do portatil: 123
+	Designacao: h
+	Processador: i7
+	RAM: 16 GB
+	Nome do utente: j
+	Tipo de utente: Estudante
+	Data da requisicao: 4 - 12 - 2020
+	Prazo da requisicao: 3 dias
+	Data de devolucao: 8 - 12 - 2020
+	Duracao: 4 dias
+	Multa: 10 euros
+	Local da devolucao: Campus 1
+
+REQUISICAO CODIGO r:
+	Numero do portatil: 123
+	Designacao: h
+	Processador: i7
+	RAM: 1 GB
+	Nome do utente: j
+	Tipo de utente: Estudante
+	Data da requisicao: 3 - 12 - 2020
+	Prazo da requisicao: 3 dias
+	Data de devolucao: 13 - 12 - 2020
+	Duracao: 10 dias
+	Multa: 70 euros
+	Local da devolucao: Campus 1
+
+REQUISICAO CODIGO r:
+	Numero do portatil: 123
+	Designacao: h
+	Processador: i7
+	RAM: 16 GB
+	Nome do utente: j
+	Tipo de utente: Estudante
+	Data da requisicao: 5 - 12 - 2020
+	Prazo da requisicao: 3 dias
+	Data de devolucao: 7 - 12 - 2020
+	Duracao: 2 dias
+	Multa: 0 euros
+	Local da devolucao: Campus 1
+
+REQUISICAO CODIGO r2:
+	Numero do portatil: 123
+	Designacao: h
+	Processador: i7
+	RAM: 16 GB
+	Nome do utente: j
+	Tipo de utente: Estudante
+	Data da requisicao: 8 - 12 - 2020
+	Prazo da requisicao: 12 dias
+	Data de devolucao: 9 - 12 - 2020
+	Duracao: 1 dias
+	Multa: 0 euros
+	Local da devolucao: Campus 1
+
+REQUISICAO CODIGO g:
+	Numero do portatil: 123
+	Designacao: h
+	Processador: i7
+	RAM: 16 GB
+	Nome do utente: j
+	Tipo de utente: Estudante
+	Data da requisicao: 2 - 12 - 2020
+	Prazo da requisicao: 3 dias
+	Data de devolucao: 7 - 12 - 2020
+	Duracao: 5 dias
+	Multa: 20 euros
+	Local da devolucao: Campus 2
+
+REQUISICAO CODIGO r:
+	Numero do portatil: 123
+	Designacao: h
+	Processador: i7
+	RAM: 16 GB
+	Nome do utente: j
+	Tipo de utente: Estudante
+	Data da requisicao: 5 - 12 - 2020
+	Prazo da requisicao: 3 dias
+	Data de devolucao: 8 - 12 - 2020
+	Duracao: 3 dias
+	Multa: 0 euros
+	Local da devolucao: Campus 1
+
+REQUISICAO CODIGO r:
+	Numero do portatil: 123
+	Designacao: hp
+	Processador: i7
+	RAM: 16 GB
+	Nome do utente: joao p
+	Tipo de utente: Estudante
+	Data da requisicao: 3 - 12 - 2020
+	Prazo da requisicao: 3 dias
+	Data de devolucao: 7 - 12 - 2020
+	Duracao: 4 dias
+	Multa: 10 euros
+	Local da devolucao: Campus 1
